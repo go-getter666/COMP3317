@@ -1,6 +1,6 @@
 # COMP3317
 # COMP3317 Computer Vision Assignment 4 - Epipolar constraint
-
+# COMP3317 A4
 ## 简介
 ### 导师介绍： 计算机科班出身，国内985本科，QS前20硕博研究生，国际教育工作5年以上，辅导来自澳洲，美国和欧洲80多名本科和硕士留学生的毕业论文、程序辅导，同时也辅导过留学生文书申请、博士RP。
 ### 主要研究领域：深度学习、模式识别、网络安全，累积发表学术论文20篇，包括TIP、TNNLS、NeurIPS、IJCAI、ACM MM等中科院JCR-2区以上和CCF-A类会议论文共计15篇，担任TMM、TIP、CVPR、ACM MM、IJCAI、AAAI等国际期刊和会议审稿人。
